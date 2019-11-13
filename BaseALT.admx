@@ -85,6 +85,9 @@
     <category name="ALT_Databases" displayName="$(string.ALT_Databases)" explainText="$(string.ALT_Databases_Help)">
       <parentCategory ref="ALT_System" />
     </category>
+    <category name="ALT_Users_Privilege" displayName="$(string.Users_Privilege)" explainText="$(string.Users_Privilege_Help)">
+      <parentCategory ref="ALT_System" />
+    </category>
     <category name="LinuxComponents" displayName="$(string.LinuxComponents)" explainText="$(string.LinuxComponents_Help)" />
   </categories>
 </policyDefinitions>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  (c) 2019 BaseALT, Ltd.  -->
+<policyDefinitionResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/GroupPolicy/2006/07/PolicyDefinitions" revision="1.0" schemaVersion="1.0">
+  <displayName>Определения пользовательских политик безопасности операционной системы Альт</displayName>
+  <description>Этот файл содержит определения политик безопасности, которые применяються к пользователям, операционной системы Альт</description>
+
+  <resources>
+    <stringTable>
+      <string id="group_wheel">Добавлять пользователя в группу "wheel"</string>
+      <string id="group_wheel_help">Эта политика определяет, добавлять ли прользователя в группу "wheel" при в ходе в систему
+
+Включено - при в ходе в систему пользователь будет добавляться в группу "wheel"
+
+Отключено - при в ходе пользователь не будет добалять в группу "wheel", но в случае она ему не назначена
+      </string>
+    </stringTable>
+  </resources>
+</policyDefinitionResources>

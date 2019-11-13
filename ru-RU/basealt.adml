@@ -33,6 +33,8 @@
       <string id="ALT_Hardware_Help">Настройка параметров аппаратных средств.</string>
       <string id="ALT_Databases">СУБД</string>
       <string id="ALT_Databases_Help">Настройка параметров различных СУБД.</string>
+      <string id="ALT_Users_Privilege">Привилегии</string>
+      <string id="ALT_Users_Privilege_Help">Настройка привелегий пользователя.</string>
 
       <string id="LinuxComponents">Компоненты Linux</string>
       <string id="LinuxComponents_Help">Содержит настройки ядра операционной системы.</string>
